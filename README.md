@@ -1,5 +1,5 @@
 # Advent of Code 2024
-> I'm doing the Advent of Code 2024 (AOC) in Python. It's basically an advent calendar composed of programming puzzles that you can solve in every type of language you want. A puzzle made give one star and each problem consist of two puzzles, a first one, and then a continuation of this one that is harder to solve. You have an input you need to download and parse to later get the expected result. The difficulty is generally increasing as each day passes. I didn't succeed to solve every puzzle. Here is the website of this challenge to see the problems : https://adventofcode.com/.
+> I've done the Advent of Code 2024 (AOC) in Python. It's basically an advent calendar composed of programming puzzles that you can solve in every type of language you want. A puzzle made give one star and each problem consist of two puzzles, a first one, and then a continuation of this one that is harder to solve. You have an input you need to download and parse to later get the expected result. The difficulty is generally increasing as each day passes. I didn't succeed to solve every puzzle. Here is the website of this challenge to see the problems : https://adventofcode.com/.
 
 #### Tables of contents
 * [Path Tree](#path-tree)
